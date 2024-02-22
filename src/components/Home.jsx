@@ -32,7 +32,7 @@ const Home = () => {
             <h1 className='font-bold text-[30px] py-[30px] max-sm:text-center max-sm:text-[26px]    '>
                 Hello,<span className='text-or'>I'm</span><br /> BEN TOUDA KHALIL <br /> A Full stack developer
             </h1>
-            <p className='text-[10px] opacity-50 font-mono max-sm:text-center '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore sit porro omnis modi dolores sapiente nostrum odio nihil esse nesciunt obcaecati voluptatibus quae impedit doloremque inventore cupiditate, veritatis accusamus magnam.</p>
+            <p className='text-[10px] opacity-50 font-mono max-sm:text-center '>As a Full Stack Web Developer, I specialize in crafting comprehensive web solutions, proficiently navigating both front-end and back-end development realms. My expertise lies in leveraging a suite of cutting-edge technologies that align with industry standards and market demands. I have a proven track record of conceiving and executing a diverse array of projects, showcasing my adeptness across the entire development spectrum.</p>
             <button className='border-[0.1px] border-white py-[8px] px-[30px] opacity-30 text-[10px] font-semibold my-[30px]' onClick={handleDownload}>DOWNLOAD CV </button>
             <div className="text-[20px]   opacity-90 flex max-sm:justify-center">
                 <i className='fa-brands fa-facebook pr-[20px]'></i>
