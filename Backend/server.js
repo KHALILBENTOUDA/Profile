@@ -50,7 +50,7 @@ app.post('/send-email', (req, res) => {
 // Serve the PDF file
 app.get('/download', (req, res) => {
   console.log('hello')
-  const file = path.join(__dirname, './Dark Blue & Orange Professional Modern CV Resume.pdf'); // Update with the actual path to your CV PDF file
+  const file = path.join(__dirname, 'bn_khalil.pdf'); // Update with the actual path to your CV PDF file
   console.log(file)
   res.download(file, 'KHALIL_CV.pdf');
 });
