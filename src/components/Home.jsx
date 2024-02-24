@@ -16,7 +16,7 @@ const Home = () => {
         const url = window.URL.createObjectURL(new Blob([response.data]));
         const link = document.createElement('a');
         link.href = url;
-        link.setAttribute('download', 'KHALIL_CV.pdf');
+        link.setAttribute('download', 'KHALIL_BEN_TOUDA.pdf');
         document.body.appendChild(link);
         link.click();
         link.parentNode.removeChild(link);
