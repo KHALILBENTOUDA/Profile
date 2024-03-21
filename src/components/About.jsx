@@ -25,8 +25,8 @@ Throughout my journey, I've encountered various challenges that have honed my sk
                 <p className='text-or text-[12px] max-sm:text-[9px] pt-2 '>Age : <span className='text-white'>20</span></p>
                 <p className='text-or text-[12px] max-sm:text-[9px] pt-2 '>Gander : <span className='text-white'>Male</span></p>
                 <p className='text-or text-[12px] max-sm:text-[9px] pt-2 '>Phone : <span className='text-white'>+212 6 07 76 04 84</span></p>
-                <p className='text-or pt-2  max-sm:text-[9px] '>Email : <span className='text-white'>benkhaliltouda3201@gmail.com</span></p>
-                <p className='text-or text-[12px] max-sm:text-[9px] pt-2 '>Langages : <span className='text-white'>Arabic,English</span></p>
+                <p className='text-or pt-2  max-sm:text-[9px] '>Email : <span className='text-white'>bentouda.khalil@gmail.com</span></p>
+                <p className='text-or text-[12px] max-sm:text-[9px] pt-2 '>Langages : <span className='text-white'>Arabic,English,French</span></p>
                 <p className='text-or text-[12px] max-sm:text-[9px] pt-2 '>Country : <span className='text-white'>Morroco</span></p>
               </div>
             </p>
