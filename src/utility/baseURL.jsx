@@ -1,1 +1,1 @@
-export const  BASE_URL="http://localhost:3201" 
+export const  BASE_URL="https://bn-khalil-server.onrender.com" 
