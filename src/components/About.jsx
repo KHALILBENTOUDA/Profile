@@ -28,7 +28,7 @@ Throughout my journey, I've encountered various challenges that have honed my sk
                 <p className='text-or pt-2  max-sm:text-[9px] '>Email : <span className='text-white'>bentouda.khalil@gmail.com</span></p>
                 <p className='text-or text-[12px] max-sm:text-[9px] pt-2 '>Langages : <span className='text-white'>Arabic,English,French</span></p>
                 <p className='text-or text-[12px] max-sm:text-[9px] pt-2 '>Country : <span className='text-white'>Morroco</span></p>
-                // heredf
+      
               </div>
             </p>
             <button className='border-[0.1px] border-white py-[8px] px-[30px] opacity-30 text-[10px] font-semibold my-[20px]'> Show More ...</button>
